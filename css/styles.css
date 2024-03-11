@@ -6,3 +6,11 @@
     color:violet;
     font-size:80px;
 }  */
+body{
+    padding-bottom: 500px;
+}
+.paragraph{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
